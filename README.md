@@ -1,2 +1,2 @@
 # dsalgo
-Simple Data structures and algorithms
+Simple Data structures and algorithms.
